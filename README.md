@@ -15,4 +15,4 @@ https://emmasiren.github.io/Refactoring-Password-Generator/
 
 The following image shows the web application when loaded correctly and at every prompt then finally the expected result.
 
-![img](assets/images/application.png)
+![img](Assets/images/application.png)
